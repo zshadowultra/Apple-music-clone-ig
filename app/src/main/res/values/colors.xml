@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="seed">#FF5722</color>
+    <color name="music_red">#FA2D48</color>
+    <color name="music_pink">#FC3C44</color>
+    <color name="glass_white">#E0FFFFFF</color>
+    <color name="glass_overlay">#80FFFFFF</color>
+    <color name="dark_surface">#1C1C1E</color>
+    <color name="dark_background">#000000</color>
+</resources>
