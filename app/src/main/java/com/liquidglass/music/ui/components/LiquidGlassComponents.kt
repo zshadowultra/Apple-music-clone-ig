@@ -34,8 +34,6 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.util.lerp
 import com.kyant.backdrop.Backdrop
 import com.kyant.backdrop.drawBackdrop
-import com.kyant.backdrop.layerBackdrop
-import com.kyant.backdrop.rememberLayerBackdrop
 import kotlinx.coroutines.launch
 
 /**
